@@ -25,19 +25,19 @@ Through purposefully cleaning our data, analyzing distributions/relationships be
 
 ### Other Folders and Files:
 
-##### [**data**](https://github.com/dstewart32/GA-Projects/tree/main/Projects/project_2_Dustin_Stewart/data)
+##### [**data**](https://github.com/dust-stew/GA-Projects/tree/main/Projects/project_2_Dustin_Stewart/data)
 
 Training and Testing Data from Property Sales in Ames, Iowa
 
 
-##### [**images**](https://github.com/dstewart32/GA-Projects/tree/main/Projects/project_2_Dustin_Stewart/images)
+##### [**images**](https://github.com/dust-stew/GA-Projects/tree/main/Projects/project_2_Dustin_Stewart/images)
 
 Contains png images of useful visualizations
 
-##### [**kaggle_predictions**](https://github.com/dstewart32/GA-Projects/tree/main/Projects/project_2_Dustin_Stewart/kaggle_predictions)
+##### [**kaggle_predictions**](https://github.com/dust-stew/GA-Projects/tree/main/Projects/project_2_Dustin_Stewart/kaggle_predictions)
 
 Contains the csv files that were submitted as part of the Kaggle competition related to this project
 
-##### [**Project 2 Ames Housing Data Presentation.pdf**](https://github.com/dstewart32/GA-Projects/blob/main/Projects/project_2_Dustin_Stewart/Project%202%20Ames%20Housing%20Data%20Presentation.pdf)
+##### [**Project 2 Ames Housing Data Presentation.pdf**](https://github.com/dust-stew/GA-Projects/blob/main/Projects/project_2_Dustin_Stewart/Project%202%20Ames%20Housing%20Data%20Presentation.pdf)
 
 Contains the PDF formatted slides for the presentation related to this project I gave to General Assembly on March 8, 2021
