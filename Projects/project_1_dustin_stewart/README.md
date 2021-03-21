@@ -14,17 +14,17 @@ Through the analysis in this project, it's clear that the SAT continues to discr
 ## [Data](data):
 
 
-**SAT 2016 Results Data (https://www.cde.ca.gov/ds/sp/ai/)
-sat16results.xlsx
+[**SAT 2016 Results Data**](https://www.cde.ca.gov/ds/sp/ai/)
 
-**SAT 2017 Results Data (https://www.cde.ca.gov/ds/sp/ai/)
-sat17results.xlsx
 
-**SAT 2018 Results Data (https://www.cde.ca.gov/ds/sp/ai/)
-sat18results.xlsx
+[**SAT 2017 Results Data**](https://www.cde.ca.gov/ds/sp/ai/)
 
-**Poverty Level Data (https://www.census.gov/programs-surveys/saipe.html)
-povertylevelbyschooldistrict.xlsx
+
+[**SAT 2018 Results Data**](https://www.cde.ca.gov/ds/sp/ai/)
+
+
+[**Poverty Level Data**](https://www.census.gov/programs-surveys/saipe.html)
+
 
 
 ### Data Dictionary
