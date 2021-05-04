@@ -2,7 +2,7 @@
 **Dustin Stewart**   
 May 3, 2021
 
-<img src="images/ball.jpg" width="500" height="200" />
+<img src="images/ball.jpg" width="400" height="200" />
 Photo by <a href="https://unsplash.com/@danielnorin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Daniel Norin</a> on <a href="https://unsplash.com/s/photos/football?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
@@ -46,7 +46,7 @@ This machine learning model is useful for any football club looking to more reli
 
 ###### 
 
-<img src="images/fields.jpg" width="300" height="100" align = "center" />  
+<img src="images/fields.jpg" width="200" height="100" align = "center" />  
 (Photo by Kelly Lacy from Pexels)  
 
 ### Modeling
