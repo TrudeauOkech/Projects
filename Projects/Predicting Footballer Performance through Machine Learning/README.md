@@ -42,12 +42,12 @@ This machine learning model is useful for any football club looking to more reli
 * Used interaction features as well as modified features
 * The squareroot of goals was used  
 
-<img src="images/aggregated_goals.png" width="400" height="200" />
-<img src="images/square_root_aggregated_goals.png" width="400" height="200" />
+<img src="images/aggregated_goals.png" width="500" height="250" />
+<img src="images/square_root_aggregated_goals.png" width="500" height="250" />
 
 ###### 
 
-<img src="images/fields.jpg" width="250" height="125" align = "center" />  
+<img src="images/fields.jpg" width="300" height="150" align = "center" />  
 (Photo by Kelly Lacy from Pexels)  
 
 ### Modeling
