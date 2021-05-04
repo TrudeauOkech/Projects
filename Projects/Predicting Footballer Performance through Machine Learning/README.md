@@ -47,7 +47,7 @@ This machine learning model is useful for any football club looking to more reli
 
 ###### 
 
-<img src="images/fields.jpg" width="300" height="150" align = "center" />  
+<img src="images/fields.jpg" width="500" height="250" align = "center" />  
 (Photo by Kelly Lacy from Pexels)  
 
 ### Modeling
