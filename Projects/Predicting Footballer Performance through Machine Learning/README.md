@@ -2,7 +2,7 @@
 **Dustin Stewart**   
 May 3, 2021
 
-<img src="images/ball.jpg" width="550" height="300" />
+<img src="images/ball.jpg" width="550" height="400" />
 Photo by <a href="https://unsplash.com/@danielnorin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Daniel Norin</a> on <a href="https://unsplash.com/s/photos/football?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
