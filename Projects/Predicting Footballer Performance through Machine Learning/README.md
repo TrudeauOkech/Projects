@@ -68,6 +68,8 @@ This machine learning model is useful for any football club looking to more reli
 * There is an element of football that will always make it unpredictable. Mohamed Salah, Mario Balotelli, and countless others' career trajectories could not have been calculated mathematically.
 * While machine learning does not eliminate the risk in player performance predictions, it can significantly reduce it. 
 * When used in conjunction with subjective player analysis, this model could help make better decisions at football clubs.
+##### 
+[Presentation on Findings](https://docs.google.com/presentation/d/1Lz9qD276Hrsx5jv89bRAUBYB4ozsAU9BgibDaD4cFrU/edit?usp=sharing)
 
 ### Areas for Further Research
 ---
