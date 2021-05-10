@@ -10,9 +10,8 @@ Photo by <a href="https://unsplash.com/@danielnorin?utm_source=unsplash&utm_medi
 ---
 Football is a notoriously hard sport to predict. Player performance reflects that. Some of the greatest strikers on earth can't score for 10 matches in a row. Then they'll score a hattrick in the next match. In this project, I will develop a machine learning model that can more accurately predict future player performance by using aggregated historical player data. 
 
-### Summary
+### Background
 ---
-#### Background
 #### A Record Breaking Flop of a Player
 In late 2015 a 23 year old footballer sat watching his career crumbling. He had played 20 matches for his English Premier League club and only scored 3 goals. Quite frankly, he had not made the cut and was set to be sold by the club. Despite his deep faith in himself, even he must have thought his career was on a tragic downhill slide. There's absolutely no way that he was thinking that in three years he would return to the premier league and break Cristiano Ronaldo's record of 31 goals in a season. But nonetheless he did. The player's name was Mohamed Salah, now an EPL and European Champion valued at 121 million dollars. This story is at the heart of why football is the world's most popular sport. The underdogs always have a chance. 
 
