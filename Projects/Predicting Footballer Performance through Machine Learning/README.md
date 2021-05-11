@@ -23,7 +23,7 @@ This machine learning model is useful for any football club looking to more reli
 
 ### Table of Contents
 ---
-- [Acquisition](code/01_Data_Acquisition.ipynb)
+- [Acquisition](code/01_Data_Import.ipynb)
 - [Cleaning](code/02_Data_Cleaning.ipynb)
 - [Analysis](code/03_Data_Analysis.ipynb)
 - [Modeling and Predictions](code/04_Modeling.ipynb) 
